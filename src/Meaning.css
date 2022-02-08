@@ -1,3 +1,7 @@
-.Definition {
-	color: red;
+.Meaning .Definition {
+	color: black;
+}
+
+.Meaning .Example {
+	color: #ff8552;
 }
