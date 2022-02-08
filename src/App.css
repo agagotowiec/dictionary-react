@@ -1,6 +1,6 @@
 body {
 	font-family: "Zen Kaku Gothic Antique", sans-serif;
-	background-color: #e6e6e6;
+	background-color: #cdb4db;
 }
 .App {
 	padding: 20px 0 100px;
@@ -12,17 +12,17 @@ body {
 	margin: 30px 0;
 }
 h1 {
-	color: #297373;
+	color: #480ca8;
 	text-align: center;
 	margin: 20px 10px;
 	font: 70px;
-	text-shadow: 1px 1px #297373;
+	text-shadow: 1px 1px white;
 }
 
 footer {
 	margin: 20px 20px;
 	font-size: 14px;
-	color: #297373;
+	color: #480ca8;
 	font-weight: bold;
 }
 
