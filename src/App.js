@@ -15,12 +15,10 @@ function App() {
 				</main>
 				<footer className="text-center">
 					This project was coded by
-					<strong>
-						<a href="https://www.linkedin.com/in/aga-got/" target={"_blank"} rel="noreferrer">
-							{" "}
-							Aga
-						</a>
-					</strong>{" "}
+					<a href="https://www.linkedin.com/in/aga-got/" target={"_blank"} rel="noreferrer">
+						{" "}
+						Aga
+					</a>{" "}
 					and is
 					<a
 						href="https://github.com/agagotowiec/dictionary-react"

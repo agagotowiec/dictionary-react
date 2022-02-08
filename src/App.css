@@ -1,9 +1,21 @@
+body {
+	font-family: "Zen Kaku Gothic Antique", sans-serif;
+	background-color: #e6e6e6;
+}
+
 h1 {
-	color: #39393a;
+	color: #297373;
+	text-align: center;
+	margin: 20px 10px;
+	font: 70px;
+	text-shadow: 1px 1px #297373;
 }
 
 h2 {
-	color: #297373;
+	color: red;
+	margin: 10px 10px;
+	text-align: center;
+	font: 40px;
 }
 footer {
 	margin: 20px 20px;
@@ -14,6 +26,7 @@ footer {
 footer a {
 	color: red;
 	text-decoration: none;
+	font-weight: bolder;
 }
 
 footer a:hover {
