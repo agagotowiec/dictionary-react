@@ -10,6 +10,6 @@ export default function Synonyms(props) {
 			</ul>
 		);
 	} else {
-		return "Searching for synonym";
+		return null;
 	}
 }
