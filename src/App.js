@@ -10,7 +10,7 @@ function App() {
 					<h1>React Dictionary</h1>
 				</header>
 				<main>
-					<Dictionary />
+					<Dictionary defaultKeyword="tea" />
 				</main>
 				<footer className="text-center">
 					This project was coded by
