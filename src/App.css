@@ -12,15 +12,15 @@ h1 {
 }
 
 h2 {
-	color: red;
+	color: #fd560f;
 	margin: 10px 10px;
 	text-align: center;
-	font: 40px;
+	font: 22px;
 }
 footer {
 	margin: 20px 20px;
-	font-size: 12px;
-	color: navy;
+	font-size: 14px;
+	color: #297373;
 }
 
 footer a {
