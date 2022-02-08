@@ -1,1 +1,10 @@
+body {
+	font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
 
+.Dictionary {
+	display: block;
+  align-self: center;
+	margin: 0 auto;
+	padding: 20px;
+}
